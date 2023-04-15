@@ -1,25 +1,45 @@
-# Sign Language Translator V1
-In this project, machine learning methods will be used to create a sign language translator. This project transforms sign language movements into english text using the input from the device which was enabled with a camera. TensorFlow framework and the Python programming language are used to build the project. 
+# Project Name: Stock Price Prediction using LSTM V1
 
-## Requirements
-- [ ] Python 3.6 or higher
-- [ ] TensorFlow
-- [ ] Media pipeline
-- [ ] OpenCV
-- [ ] NumPy
+##Project Description
+This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The web application is designed using Flask, HTML, CSS, and deployed on Google Cloud.
 
 
-## Dataset
-The project uses a custom dataset collected from various sources and personally took from my hand gestures. The dataset contains a total of **1000+** images for each gesture in the sign language alphabet and numerical digits. The data has been pre-processed and augmented to improve the model's performance. The guidelines mentioned in this [image](https://drive.google.com/file/d/1GNe96f-HU6AiwAhRudMFzeC1Fnyrh5aW/view?usp=sharing) were used as reference sign language to train the model.
+## Team Members
+- [P.V.Chaitanya](https://github.com/pvchaitanya8/) : Helped for building data set & preprocessing, and assisting tarining and testing the Deeplearning Model.
+- [Deva Sai Kishore](https://github.com/devasaikishore43) : Helped in cloud deployment.
+- [Siva Shankar](https://github.com/SivaShankar-Juthuka) : Helped in training & testing the deep learning model and also assisting with tasks such as data preprocessing.
+- [Uday Kiran]() : Helped for Designing front end.
 
 
+## Technologies Used
+- AI/ML (Deep learning)
+- Web design
+- Cloud
 
-## Model
-The project uses a Convolutional Neural Network (CNN) model to classify the sign language gestures. The model is trained using the collected dataset, and the weights are saved after training.
+## Tools Used
+- [ ] Figma : for UI/UX design.
+- [ ] Flask : for web application development.
+- [ ] HTML, CSS : for front-end development.
+- [ ] Putty : for remote server access.
+- [ ] Slack : for team communication.
+- [ ] Sublime, Spyder : for code editing.
+- [ ] Google Cloud : for deployment.
+- [ ] Deep Learning Algorithm : LSTM (Long short term Memory).
 
+
+## Purpose	
+- To regulate the misleading information on stock market.
+- Helping investors to make informed decisions while investing in stocks.
 
 ## Contribution
 Contributions are welcome! If you want to contribute to the project, please create a pull request with a detailed explanation of the changes.
 
-> We made this project as a team and collected data sets from various sources and analyzed and then generated data sets by our hands as input. Some sample data set were given too in this GitHub repository. We [P.V.Chaitanya](https://github.com/pvchaitanya8), [N.Suryakala](https://github.com/suryakala-1a), [P.G.Alekya](https://github.com/Gowri2003Alekya) worked as a team towards this project.
 
+##Instructions to Run
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the app.py file using CMD.
+4. Access the web application on your local machine.
+
+
+> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case we used Google cloud.
