@@ -1,6 +1,6 @@
 # Project Name: Stock Price Prediction using LSTM V1
 
-##Project Description
+## Project Description
 This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The web application is designed using Flask, HTML, CSS, and deployed on Google Cloud.
 
 
@@ -31,11 +31,12 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 - To regulate the misleading information on stock market.
 - Helping investors to make informed decisions while investing in stocks.
 
+
 ## Contribution
 Contributions are welcome! If you want to contribute to the project, please create a pull request with a detailed explanation of the changes.
 
 
-##Instructions to Run
+## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the app.py file using CMD.
