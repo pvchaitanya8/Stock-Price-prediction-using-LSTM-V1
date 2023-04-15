@@ -39,7 +39,10 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
-3. Run the app.py file using CMD.
+3. Run the "Stock_Prediction" python file using CMD:
+```bash
+python Stock_Prediction.py
+```
 4. Access the web application on your local machine.
 
 
