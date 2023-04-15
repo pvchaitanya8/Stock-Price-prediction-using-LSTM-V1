@@ -42,4 +42,4 @@ Contributions are welcome! If you want to contribute to the project, please crea
 4. Access the web application on your local machine.
 
 
-> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case we used Google cloud on this URL().
+> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case we used Google cloud on this [URL]().
