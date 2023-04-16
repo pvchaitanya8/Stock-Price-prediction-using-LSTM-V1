@@ -18,7 +18,7 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 
 ## Tools Used
 - [ ] Figma : for UI/UX design
-- [ ] Flask : for web application development
+- [ ] Flask : for web application development. 
 - [ ] HTML, CSS : for front-end development.
 - [ ] Putty : for remote server access.
 - [ ] Slack : for team communication.
