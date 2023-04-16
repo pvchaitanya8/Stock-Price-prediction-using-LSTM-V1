@@ -46,4 +46,4 @@ python Stock_Prediction.py
 4. Access the web application on your local machine.
 
 
-> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case, we used Google Cloud on this [URL]().
+> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case, we used Google Cloud on this [URL](http://16.170.155.46:5000/).
