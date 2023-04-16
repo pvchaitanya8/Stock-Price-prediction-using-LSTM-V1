@@ -39,7 +39,7 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
-3. Unzip the file "project SPPL" and set cmd path to it. 
+3. Unzip the file "Project SPPL" and set cmd path to it. 
 4. Run the "Stock_Prediction" python file using CMD:
 ```bash
 python Stock_Prediction.py
