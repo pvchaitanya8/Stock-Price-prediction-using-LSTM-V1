@@ -1,7 +1,7 @@
 # Project Name: Stock Price Prediction using LSTM (V1)
 
 ## Project Description
-This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The web application is designed using Flask, HTML, CSS, and deployed on Google Cloud.
+This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The [web application](http://16.170.155.46:5000/) is designed using Flask, HTML, CSS, and deployed on Google Cloud.
 
 
 ## Team Members
@@ -39,11 +39,14 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
-3. Run the "Stock_Prediction" python file using CMD:
+3. Unzip the file and open cmd on the same path. 
+
+4. Run the "Stock_Prediction" python file on cmd using command :
 ```bash
 python Stock_Prediction.py
 ```
-4. Access the web application on your local machine.
+5. Now by copy the link it gives and paste it in a browser. 
+6. Now, you can access the web application on your local machine.
 
 
-> To deploy on cloud undergo the intsruction provided by cloud provider you choosen and you can deploy on it. In our case, we used Google Cloud on this [URL](http://16.170.155.46:5000/).
+> To deploy on cloud, undergo the intsruction provided by cloud provider you choose and you can deploy on it. In our case, we used Google Cloud, resulting [Website URL](http://16.170.155.46:5000/).
