@@ -39,11 +39,13 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
-3. Run the "Stock_Prediction" python file using CMD:
+3. Unzip the file "project SPPL" and set cmd path to it. 
+4. Run the "Stock_Prediction" python file using CMD:
 ```bash
 python Stock_Prediction.py
 ```
-4. Access the web application on your local machine.
+5. You will get a link as output. Copy paste it in a browser. 
+6. Now, you can access the web application on your local machine.
 
 
 > To deploy on cloud, undergo the intsruction provided by cloud provider you choose and you can deploy on it. In our case, we used Google Cloud. 
