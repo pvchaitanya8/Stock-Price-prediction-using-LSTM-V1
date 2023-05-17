@@ -18,13 +18,13 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 
 ## Tools Used
 - [ ] Figma : for UI/UX design
-- [ ] Flask : for web application development. 
 - [ ] HTML, CSS : for front-end development.
-- [ ] Putty : for remote server access.
-- [ ] Slack : for team communication.
-- [ ] Sublime, Spyder : for code editing.
-- [ ] Google Cloud : for deployment.
+- [ ] Flask : for web application development. 
 - [ ] Deep Learning Algorithm : LSTM (Long Short Term Memory).
+- [ ] Putty : for remote server access.
+- [ ] Google Cloud : for deployment.
+- [ ] Sublime, Spyder : for code editing.
+- [ ] Slack : for team communication.
 
 
 ## Purpose    
@@ -39,12 +39,12 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ## Instructions to Run
 1. Clone the repository.
 2. Install the required dependencies.
-3. Unzip the file "Project SPPL" and set cmd path to it. 
-4. Run the "Stock_Prediction" python file using CMD:
+3. Unzip the file and set cmd path to it. 
+4. Run the "app.py" python file using CMD:
 ```bash
-python Stock_Prediction.py
+python app.py
 ```
-5. You will get a link as output. Ctrl/Cmd + Cick to the link.
+5. You will get a link as output. Click on it. 
 6. Now, you can access the web application on your local machine.
 
 
