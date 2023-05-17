@@ -44,7 +44,7 @@ Contributions are welcome! If you want to contribute to the project, please crea
 ```bash
 python Stock_Prediction.py
 ```
-5. You will get a link as output. Copy paste it in a browser. 
+5. You will get a link as output. Ctrl/Cmd + Cick to the link.
 6. Now, you can access the web application on your local machine.
 
 
