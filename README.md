@@ -5,10 +5,11 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 
 
 ## Team Members
-- [P.V.Chaitanya](https://github.com/pvchaitanya8/) : Helped for building the data set and preprocessing, and assisting in training and testing the Deeplearning Model.
-- [Deva Sai Kishore](https://github.com/devasaikishore43) : Helped in cloud deployment.
+- [P.V.Chaitanya](https://github.com/pvchaitanya8/) : Helped for building the data set and preprocessing, and assisting in training and testing the Deeplearning Model. Assisted in evaluating the model's performance on unseen data.Conducted comprehensive experiments, conducted rigorous analyses of the results
+- [Deva Sai Kishore](https://github.com/devasaikishore43) : Helped in facilitating cloud deployment, contributing to the successful implementation and utilization of cloud computing technologies.
 - [Siva Shankar](https://github.com/SivaShankar-Juthuka) : Helped in training & testing the deep learning model and also assisted with tasks such as data preprocessing.
-- [Uday Kiran](https://github.com/UdayKiranVEGI) : Helped for Designing front end.
+- [Uday Kiran](https://github.com/UdayKiranVEGI) : Helped in designing the front end of the project and seamlessly integrating it with the Flask framework. By leveraging my expertise in web development and user interface design
+
 
 
 ## Technologies Used
