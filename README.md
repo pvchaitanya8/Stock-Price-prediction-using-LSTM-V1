@@ -1,4 +1,4 @@
-# Project Name: Stock Price Prediction using LSTM (V1)
+# Project Name: Stock Price Prediction using LSTM [V2]
 
 ## Project Description
 This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The [web application](http://16.170.155.46:5000/) is designed using Flask, HTML, CSS, and deployed on Google Cloud.
