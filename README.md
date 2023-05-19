@@ -1,14 +1,14 @@
 # Project Name: Stock Price Prediction using LSTM [V2]
 
 ## Project Description
-This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The [web application](http://16.170.155.46:5000/) is designed using Flask, HTML, CSS, and deployed on Google Cloud.
+This project uses deep learning techniques to predict stock prices using LSTM algorithm. The goal is to help investors make informed decisions and prevent them from being misled by unreliable sources. The [web application](http://34.16.129.157:5000/) is designed using Flask, HTML, CSS, and deployed on Google Cloud.
 
 
 ## Team Members
-- [P.V.Chaitanya](https://github.com/pvchaitanya8/) : Helped for building the data set and preprocessing, and assisting in training and testing the Deeplearning Model. Assisted in evaluating the model's performance on unseen data.Conducted comprehensive experiments, conducted rigorous analyses of the results
-- [Deva Sai Kishore](https://github.com/devasaikishore43) : Helped in facilitating cloud deployment, contributing to the successful implementation and utilization of cloud computing technologies.
-- [Siva Shankar](https://github.com/SivaShankar-Juthuka) : Helped in training & testing the deep learning model and also assisted with tasks such as data preprocessing.
-- [Uday Kiran](https://github.com/UdayKiranVEGI) : Helped in designing the front end of the project and seamlessly integrating it with the Flask framework. By leveraging my expertise in web development and user interface design
+- [P.V.Chaitanya](https://github.com/pvchaitanya8/) : Helped for building the data set and preprocessing, and assisting in training and testing the Deeplearning Model LSTM. Assisted in evaluating the model's performance on unseen data. Conducted comprehensive experiments, conducted rigorous analyses of the results
+- [Deva Sai Kishore](https://github.com/devasaikishore43) : Helped in facilitating Google cloud deployment and by the help of docker, contributing to the successful implementation and utilization of cloud computing technologies.
+- [Siva Shankar](https://github.com/SivaShankar-Juthuka) : Helped in bridging the gap between the backend and frontend by leveraging the power of Flask. and assisted in designing the front end of the project for optimized user interactions to enhance the overall usability of the application.
+- [Uday Kiran](https://github.com/UdayKiranVEGI) : Helped in designing the front end of the project, leveraging my design expertise to create visually captivating and user-friendly interfaces.
 
 
 
@@ -22,8 +22,8 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 - [ ] HTML, CSS : for front-end development.
 - [ ] Flask : for web application development. 
 - [ ] Deep Learning Algorithm : LSTM (Long Short Term Memory).
-- [ ] Putty : for remote server access.
-- [ ] Google Cloud : for deployment.
+- [ ] Docket : To build, test, and deploy applications quickly
+- [ ] Google Cloud : for Cloud deployment.
 - [ ] Sublime, Spyder : for code editing.
 - [ ] Slack : for team communication.
 
