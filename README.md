@@ -53,4 +53,4 @@ python app.py
 
 
 ### Note :
-**To access our website you can deploy in your own machine as shown in instructions above or you can access by this [URL](http://16.170.155.46:5000/).**
+**To access our website you can deploy in your own machine as shown in instructions above or you can access by this [URL](http://34.125.177.88:5000/).**
