@@ -47,6 +47,10 @@ python app.py
 5. You will get a link as output. Click on it. 
 6. Now, you can access the web application on your local machine.
 
+![Screenshot 2024-02-05 195239](https://github.com/pvchaitanya8/Stock-Price-prediction-using-LSTM-V1/assets/93573686/e053d8a6-24c1-4bad-9e1a-7c5cb21628cf)
+![Screenshot 2024-02-05 195250](https://github.com/pvchaitanya8/Stock-Price-prediction-using-LSTM-V1/assets/93573686/3f0c62fd-2043-499d-9510-c6b066183ae3)
+![Screenshot 2024-02-05 195300](https://github.com/pvchaitanya8/Stock-Price-prediction-using-LSTM-V1/assets/93573686/7f6a5118-5429-41fe-98a5-15cca1c214cc)
+![Screenshot 2024-02-05 195347](https://github.com/pvchaitanya8/Stock-Price-prediction-using-LSTM-V1/assets/93573686/67a78869-9468-4d5d-a4d4-17585c81d0e4)
 
 > To deploy on cloud, undergo the intsruction provided by cloud provider you choose and you can deploy on it. In our case, we used Google Cloud. 
 
